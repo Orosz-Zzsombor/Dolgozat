@@ -1,0 +1,16 @@
+#vezerlok{
+    display: flex;
+    gap: 15px;
+}
+#container{
+    background-color: black;
+    width: 100vw;
+    height: 100vw;
+    
+}
+#elem{
+    background-color: aqua;
+    width: 10vw;
+    height: 10vw;
+    position: absolute;
+}
